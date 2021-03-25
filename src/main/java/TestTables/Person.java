@@ -1,21 +1,21 @@
-package Tables;
+package TestTables;
 
 import Annotations.Entity;
 import Annotations.FieldName;
 import Annotations.PrimaryKey;
 
 import java.time.LocalDate;
-import java.util.Calendar;
+
 @Entity
 public class Person {
 
     @PrimaryKey
     private int id = 424;
-    @FieldName
+    @FieldName(unique = false,notNull = true)
     private LocalDate Dob= LocalDate.now();
-    @FieldName
+    @FieldName(unique = false)
     private String fname = "DanielKOP";
-    @FieldName
+    @FieldName(unique = false)
     private String lname = "BiggieSmalls";
 
 }

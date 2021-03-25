@@ -1,51 +1,107 @@
-import Annotations.Entity;
-import Annotations.FieldName;
-import Annotations.PrimaryKey;
-import Tables.Car;
-import org.reflections.Reflections;
-import org.reflections.scanners.FieldAnnotationsScanner;
-import org.reflections.scanners.SubTypesScanner;
-import org.reflections.scanners.TypeAnnotationsScanner;
+import DB.ConnectionPool.BasicConnPool;
+import DB.ConnectionPool.ConnectionPool2;
+import Models.Database;
+import Models.TableModel;
+import Threads.MakeThreadPool;
 
-import java.lang.reflect.Constructor;
-import java.lang.reflect.Field;
-import java.util.Arrays;
-import java.util.Set;
+import java.sql.SQLException;
+import java.util.logging.Level;
+import java.util.logging.Logger;
+
+import static junit.framework.TestCase.assertTrue;
 
 public class Driver {
 
+    private static Logger log = Logger.getLogger(String.valueOf(Driver.class));
     public static void main(String[] args) {
-        //scan urls that contain 'my.package', include inputs starting with 'my.package', use the default scanners
-        Reflections reflections = new Reflections("", new TypeAnnotationsScanner(), new SubTypesScanner(), new FieldAnnotationsScanner());
 
-        //TypeAnnotationsScanner
-        Set<Class<?>> tables =
-                reflections.getTypesAnnotatedWith(Entity.class);
+        Logger.getAnonymousLogger().setLevel(Level.OFF);
 
-        for (Class table : tables) {
-            System.out.println(table.getSimpleName());
-            Field[] temp = table.getDeclaredFields();
-            for (Field field : temp) {
-                if (field.isAnnotationPresent(FieldName.class)) {
-                    field.setAccessible(true);
-                    try {
-                        System.out.println(getVariable(field).toString());
-                    } catch (IllegalAccessException e) {
-                        e.printStackTrace();
-                    } catch (InstantiationException e) {
-                        e.printStackTrace();
-                    }
-                }
-                else if (field.isAnnotationPresent(PrimaryKey.class)){
-                    System.out.println("This is a primary key");
-                    System.out.println(field.getName());
-                }
-                else {
-                    System.out.println("What is this ?");
-                    System.out.println(field.getName());
-                }
-                System.out.println();
-            }
+
+
+
+
+        // Need to implement a create a new Field option for alter ?
+
+        // How to do the pooling
+        // Need a pool of DB connections
+        // Need a pool of threads
+        // Maybe each Db connection gets its own thread pool
+
+
+        Database db = new Database();
+        db.showAll(db.getTable("car"));
+        db.showAll(db.getTable("car"));
+        db.showAll(db.getTable("car"));
+        db.showAll(db.getTable("car"));
+        db.showAll(db.getTable("car"));
+        db.showAll(db.getTable("car"));
+        db.showAll(db.getTable("car"));
+        db.showAll(db.getTable("car"));
+        db.showAll(db.getTable("car"));
+        db.showAll(db.getTable("car"));
+        db.showAll(db.getTable("car"));
+        db.showAll(db.getTable("car"));
+        db.showAll(db.getTable("car"));
+        db.showAll(db.getTable("car"));
+        db.showAll(db.getTable("car"));
+        db.showAll(db.getTable("car"));
+        db.showAll(db.getTable("car"));
+        db.showAll(db.getTable("car"));
+        db.showAll(db.getTable("car"));
+        db.showAll(db.getTable("car"));
+        MakeThreadPool.executorService.shutdown();
+
+
+//        TableModel table = db.getTable("Person");
+//        System.out.println(table.getTableName());
+//        System.out.println(table.getFields("fname","lname")[0].getName());
+
+//        db.createTable(db.tables.get(0));
+//        db.insertIntoTable(db.tables.getFirst().getTableName() , db.tables.get(1).getAllFields());
+////        //db.updateTable("car", "year" , "1997" ,db.tables.get(0).getAllFields() );
+//        db.readTable(db.getTable("car"), db.getTable("car").getAllFields());
+
+
+
+
+//
+//       BasicDao playToy = new BasicDao();
+////       playToy.CreateTable(tables.getFirst());
+//     //  playToy.insertIntoTable(tables.getFirst());
+////       new BasicDao().insertIntoTable(tables.getFirst());
+//        System.out.println( playToy.delete(tables.getFirst()));
+
+//       for(int i = 0; i < tables.size();i++){
+//           System.out.println(tables.get(i).getTableName());
+//       }
+    }
+
+
+//        for (Class table : tables) {
+//            System.out.println(table.getSimpleName());
+//            Field[] temp = table.getDeclaredFields();
+//            for (Field field : temp) {
+//                if (field.isAnnotationPresent(FieldName.class)) {
+//                    field.setAccessible(true);
+//                    try {
+//                        System.out.println(getVariable(field).toString());
+//                    } catch (IllegalAccessException e) {
+//                        e.printStackTrace();
+//                    } catch (InstantiationException e) {
+//                        e.printStackTrace();
+//                    }
+//                }
+//                else if (field.isAnnotationPresent(PrimaryKey.class)){
+//                    System.out.println("This is a primary key");
+//                    System.out.println(field.getName());
+//                }
+//                else {
+//                    System.out.println("What is this ?");
+//                    System.out.println(field.getName());
+//                }
+//                System.out.println();
+//            }
 
 //            Constructor[] temp = table.getConstructors();
 //            for(int i =0;i < temp.length;i++){
@@ -53,11 +109,11 @@ public class Driver {
 //            }
         }
 
-        Set<Field> pks =
-                reflections.getFieldsAnnotatedWith(PrimaryKey.class);
-
-        Set<Field> fields =
-                reflections.getFieldsAnnotatedWith(FieldName.class);
+//        Set<Field> pks =
+//                reflections.getFieldsAnnotatedWith(PrimaryKey.class);
+//
+//        Set<Field> fields =
+//                reflections.getFieldsAnnotatedWith(FieldName.class);
 
 //        for (Field field : fields) {
 //            field.setAccessible(true);
@@ -73,24 +129,18 @@ public class Driver {
 //        }
 
 
-    }
-
-    //Todo :Make it so that whatver table it is comming from it uses that an an object
-    /*
-        Right now the probelm is i dont know which class to create a new instance for dont know how many levels to go
-        Look for the $but then that limits the user from a table name with a dollar sign
-        I could look at the table name it self with getsimpleName and then check for a $ a
-       If there is one i can act accordiingly
-     */
-    public static <T extends Object> T getVariable(Field field) throws IllegalAccessException, InstantiationException {
-//         String className = field.getDeclaringClass().getSimpleName();
-//         Class<?>[] temp  = field.getDeclaringClass().getDeclaredClasses();
-//        for(int i = 0 ;i < temp.length;i++){
-//            System.out.println("In the loop");
-//            System.out.println(temp[i]);
-//        }
-        return (T) field.get(field.getDeclaringClass().newInstance());
-    }
 
 
-}
+
+//    public static <T extends Object> T getVariable(Field field) throws IllegalAccessException, InstantiationException {
+////         String className = field.getDeclaringClass().getSimpleName();
+////         Class<?>[] temp  = field.getDeclaringClass().getDeclaredClasses();
+////        for(int i = 0 ;i < temp.length;i++){
+////            System.out.println("In the loop");
+////            System.out.println(temp[i]);
+////        }
+//        return (T) field.get(field.getDeclaringClass().newInstance());
+//    }
+
+
+

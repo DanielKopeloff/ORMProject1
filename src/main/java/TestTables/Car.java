@@ -1,4 +1,4 @@
-package Tables;
+package TestTables;
 
 import Annotations.Entity;
 import Annotations.FieldName;
@@ -8,8 +8,8 @@ import Annotations.PrimaryKey;
 @Entity
 public class Car {
 
-    @PrimaryKey
-    private int id = 25;
+    @PrimaryKey(defaultVal = "3",Check = "id>2")
+    private int id = 35;
 
     @FieldName
     private String name ="Daniel";
@@ -19,6 +19,8 @@ public class Car {
 
     @IgnoreORM
     private String type ="Honda";
+    @FieldName
+    private Person person ;
 
 //    @Entity
 //    public class Wheels{
