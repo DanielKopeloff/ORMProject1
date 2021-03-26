@@ -1,0 +1,57 @@
+
+d
+java:S1126¢"AReplace this if-then-else statement by a single return statement.(Á¿àÆÿÿÿÿÿ8‘Æ¾Ú†/
+Q
+java:S2175L"/A "ArrayList<Field>" cannot contain a "String".(ºš·ºıÿÿÿÿ8ƒÖ¶Ú†/
+R
+java:S3740È"/Provide the parametrized type for this generic.(Õëãˆúÿÿÿÿ8‘Æ¾Ú†/
+V	java:S106„"9Replace this use of System.out or System.err by a logger.(»¾çÖ8‘Æ¾Ú†/
+V	java:S106ß"9Replace this use of System.out or System.err by a logger.(ıÊŒÖ8‘Æ¾Ú†/
+[	java:S106â"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8‘Æ¾Ú†/
+P
+java:S1135ü"2Complete the task associated to this TODO comment.(©äÊô8‘Æ¾Ú†/
+V	java:S106ª"9Replace this use of System.out or System.err by a logger.(»íô×8‘Æ¾Ú†/
+Q
+java:S3740*"/Provide the parametrized type for this generic.(Öâ¬åøÿÿÿÿ8ƒÖ¶Ú†/
+Y	java:S125ñ"<This block of commented-out lines of code should be removed.(¤Öº®8‘Æ¾Ú†/
+Q
+java:S1144¯"4Remove this unused private "numberofIgnored" method.(„¿ö*8‘Æ¾Ú†/
+L
+java:S2175w"/A "ArrayList<Field>" cannot contain a "String".(— ØÀ8‘Æ¾Ú†/
+[	java:S106ã"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ƒÖ¶Ú†/
+V	java:S106Ú"9Replace this use of System.out or System.err by a logger.(÷ƒëâ8‘Æ¾Ú†/
+V	java:S106ä"9Replace this use of System.out or System.err by a logger.(Ã‰Æ£8ƒÖ¶Ú†/
+L
+java:S2175K"/A "ArrayList<Field>" cannot contain a "String".(— ØÀ8ƒÖ¶Ú†/
+J
+java:S3011…",This accessibility update should be removed.(˜ÂÓ˜8‘Æ¾Ú†/
+Q
+java:S2175X"/A "ArrayList<Field>" cannot contain a "String".(´¸ÿÿÿÿÿ8‡û¾Ú†/
+D
+java:S1168…"&Return an empty array instead of null.(¥¹ï8‘Æ¾Ú†/
+[	java:S106¾"9Replace this use of System.out or System.err by a logger.(é×·Ôıÿÿÿÿ8‘Æ¾Ú†/
+s
+java:S1206š"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿ8‘Æ¾Ú†/
+Q
+java:S3740&"/Provide the parametrized type for this generic.(…êı¶øÿÿÿÿ8ƒÖ¶Ú†/
+Q
+java:S2175x"/A "ArrayList<Field>" cannot contain a "String".(´¸ÿÿÿÿÿ8ƒÖ¶Ú†/
+V	java:S106Ó"9Replace this use of System.out or System.err by a logger.(÷ƒëâ8‘Æ¾Ú†/
+Q
+java:S3740"/Provide the parametrized type for this generic.(†…âĞıÿÿÿÿ8ƒÖ¶Ú†/
+[	java:S106¬"9Replace this use of System.out or System.err by a logger.(äîÓÕşÿÿÿÿ8‘Æ¾Ú†/
+L
+java:S2175W"/A "ArrayList<Field>" cannot contain a "String".(— ØÀ8‡û¾Ú†/
+c
+java:S2147‰"ECombine this catch with the one at line 263, which has the same body.(¯áè8‘Æ¾Ú†/
+V	java:S106à"9Replace this use of System.out or System.err by a logger.(áñÁ·8ƒÖ¶Ú†/
+R
+java:S3740¾"/Provide the parametrized type for this generic.(Õëãˆúÿÿÿÿ8‘Æ¾Ú†/
+M
+java:S3740î"/Provide the parametrized type for this generic.(õ˜áî8‘Æ¾Ú†/
+[	java:S106å"9Replace this use of System.out or System.err by a logger.(şú±Ÿûÿÿÿÿ8ƒÖ¶Ú†/
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ùæñÃûÿÿÿÿ8ƒÖ¶Ú†/
+V
+java:S1144"3Remove this unused private "numberofFields" method.(ÂƒÅ€ÿÿÿÿÿ8‘Æ¾Ú†/
+Q
+java:S3740"/Provide the parametrized type for this generic.(ŞŸÊíûÿÿÿÿ8ƒÖ¶Ú†/

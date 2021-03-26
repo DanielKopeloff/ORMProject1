@@ -1,0 +1,86 @@
+
+T	java:S106²"9Replace this use of System.out or System.err by a logger.(´ŒŸåùÿÿÿÿ
+A
+java:S1905U"+Remove this unnecessary cast to "Callable".(‘ÔÄê
+B
+java:S2129." Remove this "String" constructor(ÕÓ¨üøÿÿÿÿ8È¿¼é†/
+R
+java:S2696†"6Make the enclosing method "static" or remove this set.(¼¥ñ‚üÿÿÿÿ
+q
+java:S1192."ODefine a constant instead of duplicating this literal "Select * from " 4 times.(ÕÓ¨üøÿÿÿÿ8¿ş¤é†/
+F
+java:S3740›"/Provide the parametrized type for this generic.(‘ÔÄê
+L
+java:S2696W"6Make the enclosing method "static" or remove this set.(½å”è
+L
+java:S2696{"6Make the enclosing method "static" or remove this set.(½å”è
+d
+java:S2142ç"FEither re-interrupt this method or rethrow the "InterruptedException".(üŸ´Â8ÍŸ¡é†/
+N	java:S106Y"9Replace this use of System.out or System.err by a logger.(Â–‘ö
+I
+java:S1905×"+Remove this unnecessary cast to "Callable".(‘ÔÄê8ÍŸ¡é†/
+N	java:S106r"9Replace this use of System.out or System.err by a logger.(ã†Å
+A
+java:S1905y"+Remove this unnecessary cast to "Callable".(‘ÔÄê
+]
+java:S2142«"FEither re-interrupt this method or rethrow the "InterruptedException".(üŸ´Â
+O	java:S106„"9Replace this use of System.out or System.err by a logger.(ÿÌİ±
+O	java:S106¹"9Replace this use of System.out or System.err by a logger.(ã†Å
+N	java:S106z"9Replace this use of System.out or System.err by a logger.(ÿÌİ±
+P
+java:S2209Z"5Change this instance-reference to a static reference.(îáÂ†ùÿÿÿÿ
+d
+java:S2142Ï"FEither re-interrupt this method or rethrow the "InterruptedException".(üŸ´Â8Åğƒé†/
+c
+java:S2142'"FEither re-interrupt this method or rethrow the "InterruptedException".(üŸ´Â8ä²¸é†/
+O	java:S106Œ"9Replace this use of System.out or System.err by a logger.(¢•¹ñ
+Q
+java:S2696b"6Make the enclosing method "static" or remove this set.(¼¥ñ‚üÿÿÿÿ
+E
+java:S3740U"/Provide the parametrized type for this generic.(‘ÔÄê
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÿÌİ±8ä²¸é†/
+I
+java:S1905¿"+Remove this unnecessary cast to "Callable".(‘ÔÄê8Åğƒé†/
+Q
+java:S2696~"6Make the enclosing method "static" or remove this set.(«ş«‹ÿÿÿÿÿ
+V	java:S106Ø"9Replace this use of System.out or System.err by a logger.(ÿÌİ±8ÍŸ¡é†/
+O	java:S106’"9Replace this use of System.out or System.err by a logger.(Ñ½ıƒ
+]
+java:S2142ˆ"FEither re-interrupt this method or rethrow the "InterruptedException".(üŸ´Â
+O	java:S106•"9Replace this use of System.out or System.err by a logger.(ã†Å
+R
+java:S11442"0Remove this unused private "buildSelect" method.(¡Ñô­üÿÿÿÿ8¥ö•é†/
+D
+java:S3740"/Provide the parametrized type for this generic.(ÒÎ€
+S	java:S106k"9Replace this use of System.out or System.err by a logger.(´ŒŸåùÿÿÿÿ
+M
+java:S3740¿"/Provide the parametrized type for this generic.(‘ÔÄê8Åğƒé†/
+T	java:S106‹"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+E
+java:S3740y"/Provide the parametrized type for this generic.(‘ÔÄê
+‡
+java:S2159A"qUse "Arrays.equals(array1, array2)" or the "==" operator instead of using the "Object.equals(Object obj)" method.(ÓÓÙ¸
+L
+java:S3740"/Provide the parametrized type for this generic.(‘ÔÄê8ä²¸é†/
+Q
+java:S2696["6Make the enclosing method "static" or remove this set.(«ş«‹ÿÿÿÿÿ
+B
+java:S1905›"+Remove this unnecessary cast to "Callable".(‘ÔÄê
+O	java:S106"9Replace this use of System.out or System.err by a logger.(˜øĞ‰
+V	java:S106À"9Replace this use of System.out or System.err by a logger.(ÿÌİ±8Åğƒé†/
+T	java:S106‘"9Replace this use of System.out or System.err by a logger.(¨ØÍÃşÿÿÿÿ
+H
+java:S1905"+Remove this unnecessary cast to "Callable".(‘ÔÄê8ä²¸é†/
+C
+java:S2129ï" Remove this "String" constructor(ÕÓ¨üøÿÿÿÿ8¿ş¤é†/
+\
+java:S2142d"FEither re-interrupt this method or rethrow the "InterruptedException".(üŸ´Â
+p
+java:S1488\"ZImmediately return this expression instead of assigning it to the temporary variable "rs".(ÂÜ™ç
+N	java:S106V"9Replace this use of System.out or System.err by a logger.(ÿÌİ±
+M
+java:S3740×"/Provide the parametrized type for this generic.(‘ÔÄê8ÍŸ¡é†/
+v
+java:S1192r"`Define a constant instead of duplicating this literal "Reached the bottom not sure why" 3 times.(ã†Å
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(èÿÉ¿şÿÿÿÿ
+O	java:S106œ"9Replace this use of System.out or System.err by a logger.(ÿÌİ±

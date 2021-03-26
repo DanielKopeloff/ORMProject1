@@ -1,0 +1,20 @@
+
+–
+java:S1186@"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(´Ò™
+t
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+R
+java:S1133]"5Do not forget to remove this deprecated code someday.(Ï«¬‡8ùÖÁè†/
+L
+java:S1128
+"/Remove this unused import 'java.sql.Savepoint'.(‡œèû8ÿí”ç†/
+1
+java:S3626!"Remove this redundant jump.(ûÁİ…
+E
+java:S1123]"(Add the missing @deprecated Javadoc tag.(Ï«¬‡8ùÖÁè†/
+1
+java:S3626$"Remove this redundant jump.(ûÁİ…
+W
+java:S2209"5Change this instance-reference to a static reference.(ÌÍáêúÿÿÿÿ8ˆÏ¬è†/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÆÑÕ
+X	java:S125Y"<This block of commented-out lines of code should be removed.(ËÑé®8ùÖÁè†/

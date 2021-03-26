@@ -1,0 +1,55 @@
+
+H
+java:S1905i"+Remove this unnecessary cast to "Callable".(‘ÔÄê8óÃ¢ß†/
+S
+java:S2696m"6Make the enclosing method "static" or remove this set.(ÇÒñ8š–Œà†/
+R
+java:S3740»"/Provide the parametrized type for this generic.(â†Ïşÿÿÿÿ8Í»ÓÛ†/
+L
+java:S1068"/Remove this unused "queryResult" private field.(¦í€Ì8±âèÜ†/
+i
+java:S3776†"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(î–ØÎ
+L
+java:S3740'"/Provide the parametrized type for this generic.(Ÿµ·å8Ä©¸ß†/
+X
+java:S2696o"6Make the enclosing method "static" or remove this set.(«ş«‹ÿÿÿÿÿ8óÃ¢ß†/
+Z	java:S106x"9Replace this use of System.out or System.err by a logger.(şÒãûÿÿÿÿ8ê§†à†/
+Y	java:S125±"<This block of commented-out lines of code should be removed.(¹˜åÙ8ç±Åİ†/
+k
+java:S3986ç"HMake sure that week Year "YYYY" is expected here instead of Year "yyyy".(²Ì—¬øÿÿÿÿ8Í»ÓÛ†/
+M
+java:S1144¿"/Remove this unused private "returnType" method.(Ï¢Ô8Í»ÓÛ†/
+]	java:S125E"<This block of commented-out lines of code should be removed.(¶¦Œëüÿÿÿÿ8í±˜Ş†/
+W	java:S125="<This block of commented-out lines of code should be removed.(¿õÄ8Ö˜Ş†/
+E
+java:S3740L"/Provide the parametrized type for this generic.(‘ÔÄê
+P
+java:S1144Ù"2Remove this unused private "formatDefualt" method.(ëõ¶–8Í»ÓÛ†/
+]	java:S125j"<This block of commented-out lines of code should be removed.(µàÉÂüÿÿÿÿ8óÃ¢ß†/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(èÿÉ¿şÿÿÿÿ
+X	java:S125;"<This block of commented-out lines of code should be removed.(ôø•Ñ8æ³¬á†/
+S	java:S106`"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(ÂÌ‹Â8Àï‘à†/
+L
+java:S3740i"/Provide the parametrized type for this generic.(‘ÔÄê8óÃ¢ß†/
+A
+java:S1905L"+Remove this unnecessary cast to "Callable".(‘ÔÄê
+£
+java:S1186""€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(©‹ıÒşÿÿÿÿ8‡ÓĞÜ†/
+Z	java:S106}"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8Ó¹…à†/
+X
+java:S2696w"6Make the enclosing method "static" or remove this set.(Àò¢öüÿÿÿÿ8Ó¹…à†/
+c
+java:S2142{"FEither re-interrupt this method or rethrow the "InterruptedException".(üŸ´Â8Ó¹…à†/
+\
+java:S2142^"FEither re-interrupt this method or rethrow the "InterruptedException".(üŸ´Â
+S	java:S106_"9Replace this use of System.out or System.err by a logger.(ô÷Ò»úÿÿÿÿ
+X	java:S125?"<This block of commented-out lines of code should be removed.(ù¢âø8â¬á†/
+V	java:S125M"<This block of commented-out lines of code should be removed.(µàÉÂüÿÿÿÿ
+Z	java:S106|"9Replace this use of System.out or System.err by a logger.(ô÷Ò»úÿÿÿÿ8Ó¹…à†/
+v
+java:S3008"TRename this field "FkisValid" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÁ”Šûÿÿÿÿ8”§®Ú†/
+B
+java:S1481‡"+Remove this unused "notStr" local variable.(ëÅÊ³
+j
+java:S1192Ê"GDefine a constant instead of duplicating this literal "double" 3 times.(ˆİä“ÿÿÿÿÿ8Í»ÓÛ†/

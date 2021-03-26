@@ -1,0 +1,14 @@
+
+\
+java:S1128":Remove this unused import 'DB.Queries.TCL.TransactionDAO'.(öù…‘ûÿÿÿÿ8¶¯±ç†/
+V	java:S125_"<This block of commented-out lines of code should be removed.(ÐÈ€‹ýÿÿÿÿ
+V	java:S125N"<This block of commented-out lines of code should be removed.(µ§º´øÿÿÿÿ
+2
+java:S2326:"T is not used in the method.(»›£§
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ä”òª
+S
+java:S1133…"5Do not forget to remove this deprecated code someday.(°î„Æ8Ùš–è†/
+F
+java:S1123…"(Add the missing @deprecated Javadoc tag.(°î„Æ8Ùš–è†/
+W
+java:S1874E"5Remove this use of "executeUpdate"; it is deprecated.(Í£¢·øÿÿÿÿ8â•¨é†/

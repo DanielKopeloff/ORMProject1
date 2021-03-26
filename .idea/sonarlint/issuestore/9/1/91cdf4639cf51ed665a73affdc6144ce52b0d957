@@ -1,0 +1,27 @@
+
+X	java:S1259"<This block of commented-out lines of code should be removed.(•µ»ş8„Ô­á†/
+X
+java:S2696/"6Make the enclosing method "static" or remove this set.(«ş«‹ÿÿÿÿÿ8ŞÒğÙ†/
+R
+java:S2696-"6Make the enclosing method "static" or remove this set.(…åß8ŞÒğÙ†/
+L
+java:S3740+"/Provide the parametrized type for this generic.(‘ÔÄê8ŞÒğÙ†/
+X	java:S125#"<This block of commented-out lines of code should be removed.(÷”°ë8ùù†Ş†/
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(·ø©Íúÿÿÿÿ8ÏüùÙ†/
+K
+java:S3740"/Provide the parametrized type for this generic.(ÒÎ€8×½äÙ†/
+O
+java:S1128"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ8«›®á†/
+H
+java:S1905+"+Remove this unnecessary cast to "Callable".(‘ÔÄê8ŞÒğÙ†/
+E	java:S108")Either remove or fill this block of code.(å¥‡8ùÕÍİ†/
+C
+java:S1172C"&Remove these unused method parameters.(Öşûå8Œ±ëÙ†/
+X
+java:S26968"6Make the enclosing method "static" or remove this set.(¼¥ñ‚üÿÿÿÿ8ŞÒğÙ†/
+]	java:S125,"<This block of commented-out lines of code should be removed.(µàÉÂüÿÿÿÿ8Â•¯á†/
+c
+java:S2142<"FEither re-interrupt this method or rethrow the "InterruptedException".(üŸ´Â8ŞÒğÙ†/
+N
+java:S1172G"1Remove this unused method parameter "tableModel".(¥ĞÖÉ8Œ±ëÙ†/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ş…éùûÿÿÿÿ

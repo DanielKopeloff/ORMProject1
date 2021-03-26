@@ -1,0 +1,107 @@
+
+Y
+java:S2696ï"6Make the enclosing method "static" or remove this set.(Àò¢öüÿÿÿÿ8Å²Áç†/
+J
+java:S3011î",This accessibility update should be removed.(˜ÂÓ˜8Å²Áç†/
+Q
+java:S11337"5Do not forget to remove this deprecated code someday.(—¼Ÿw8ºµ•è†/
+l
+java:S1192Y"JDefine a constant instead of duplicating this literal " ) Where " 3 times.(Äñøÿÿÿÿ8Å²Áç†/
+M
+java:S3740Ş"/Provide the parametrized type for this generic.(Ÿµ·å8Å²Áç†/
+J
+java:S1872å"'Use an "instanceof" comparison instead.(šü×“ıÿÿÿÿ8Å²Áç†/
+M
+java:S3740³"/Provide the parametrized type for this generic.(‘ÔÄê8Å²Áç†/
+[	java:S106"9Replace this use of System.out or System.err by a logger.(´ŒŸåùÿÿÿÿ8Å²Áç†/
+d
+java:S2142Í"FEither re-interrupt this method or rethrow the "InterruptedException".(üŸ´Â8Å²Áç†/
+Y
+java:S2696¹"6Make the enclosing method "static" or remove this set.(«ş«‹ÿÿÿÿÿ8Å²Áç†/
+e
+java:S1192)"HDefine a constant instead of duplicating this literal " Where " 3 times.(“´ˆ“8âÅØã†/
+^	java:S125—"<This block of commented-out lines of code should be removed.(ÔŸÑ£şÿÿÿÿ8Å²Áç†/
+\
+java:S2142I"FEither re-interrupt this method or rethrow the "InterruptedException".(üŸ´Â
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(³œÒ~8ÙãÖã†/
+J
+java:S3011Š",This accessibility update should be removed.(˜ÂÓ˜8Å²Áç†/
+M
+java:S3740™"/Provide the parametrized type for this generic.(‘ÔÄê8Å²Áç†/
+U	java:S106x"9Replace this use of System.out or System.err by a logger.(ÿÌİ±8Å²Áç†/
+d
+java:S2142ò"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Å²Áç†/
+J
+java:S3011Œ",This accessibility update should be removed.(˜ÂÓ˜8Óİ›è†/
+B
+java:S1872""'Use an "instanceof" comparison instead.(šü×“ıÿÿÿÿ
+I
+java:S1905Ş"+Remove this unnecessary cast to "Callable".(‘ÔÄê8Å²Áç†/
+M
+java:S3740¼"/Provide the parametrized type for this generic.(‘ÔÄê8Å²Áç†/
+i
+java:S1192""GDefine a constant instead of duplicating this literal "String" 4 times.(šü×“ıÿÿÿÿ8Ğ¡â†/
+V	java:S106Õ"9Replace this use of System.out or System.err by a logger.(È‡ÊÛ8ş¥‚ä†/
+V	java:S106½"9Replace this use of System.out or System.err by a logger.(ÿÌİ±8Å²Áç†/
+T
+java:S2696¶"6Make the enclosing method "static" or remove this set.(½å”è8Å²Áç†/
+V	java:S106µ"9Replace this use of System.out or System.err by a logger.(ÿÌİ±8Å²Áç†/
+J
+java:S1872"'Use an "instanceof" comparison instead.(šü×“ıÿÿÿÿ8Å²Áç†/
+^	java:S125º"<This block of commented-out lines of code should be removed.(ºª–÷şÿÿÿÿ8Å²Áç†/
+[	java:S106ö"9Replace this use of System.out or System.err by a logger.(ŠÅß¬şÿÿÿÿ8Å²Áç†/
+T
+java:S2696â"6Make the enclosing method "static" or remove this set.(½å”è8Å²Áç†/
+[	java:S106Ñ"9Replace this use of System.out or System.err by a logger.(ŠÅß¬şÿÿÿÿ8Å²Áç†/
+I
+java:S1905™"+Remove this unnecessary cast to "Callable".(‘ÔÄê8Å²Áç†/
+h
+java:S1192"FDefine a constant instead of duplicating this literal " Set " 3 times.(üßïùÿÿÿÿ8âÅØã†/
+I
+java:S1905³"+Remove this unnecessary cast to "Callable".(‘ÔÄê8Å²Áç†/
+d
+java:S2142Í"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Å²Áç†/
+L
+java:S3740w"/Provide the parametrized type for this generic.(‘ÔÄê8Å²Áç†/
+Y
+java:S2696Ê"6Make the enclosing method "static" or remove this set.(Àò¢öüÿÿÿÿ8Å²Áç†/
+V	java:S106á"9Replace this use of System.out or System.err by a logger.(ÿÌİ±8Å²Áç†/
+V	java:S106š"9Replace this use of System.out or System.err by a logger.(ÿÌİ±8Å²Áç†/
+E
+java:S37409"/Provide the parametrized type for this generic.(‘ÔÄê
+d
+java:S2142ª"FEither re-interrupt this method or rethrow the "InterruptedException".(üŸ´Â8Å²Áç†/
+V	java:S106Ò"9Replace this use of System.out or System.err by a logger.(Ã¼ï8Å²Áç†/
+J
+java:S3011¦",This accessibility update should be removed.(˜ÂÓ˜8’ÿœè†/
+d
+java:S2142ˆ"FEither re-interrupt this method or rethrow the "InterruptedException".(üŸ´Â8Å²Áç†/
+B
+java:S1872-"'Use an "instanceof" comparison instead.(šü×“ıÿÿÿÿ
+[	java:S106°"9Replace this use of System.out or System.err by a logger.(´ŒŸåùÿÿÿÿ8Å²Áç†/
+I
+java:S1905¼"+Remove this unnecessary cast to "Callable".(‘ÔÄê8Å²Áç†/
+J
+java:S3011ç",This accessibility update should be removed.(˜ÂÓ˜8Å²Áç†/
+]
+java:S1192S"GDefine a constant instead of duplicating this literal " Set (" 3 times.(úÁ¯ª
+[	java:S106Ó"9Replace this use of System.out or System.err by a logger.(´ŒŸåùÿÿÿÿ8Å²Áç†/
+D
+java:S11237"(Add the missing @deprecated Javadoc tag.(—¼Ÿw8ºµ•è†/
+A
+java:S19059"+Remove this unnecessary cast to "Callable".(‘ÔÄê
+V	java:S106÷"9Replace this use of System.out or System.err by a logger.(Ã¼ï8Å²Áç†/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(èÿÉ¿şÿÿÿÿ
+V	java:S106ú"9Replace this use of System.out or System.err by a logger.(È‡ÊÛ8±î¨â†/
+N	java:S106:"9Replace this use of System.out or System.err by a logger.(ÿÌİ±
+V	java:S125("<This block of commented-out lines of code should be removed.(ÔŸÑ£şÿÿÿÿ
+^	java:S125õ"<This block of commented-out lines of code should be removed.(ÔŸÑ£şÿÿÿÿ8Å²Áç†/
+Y
+java:S2696å"6Make the enclosing method "static" or remove this set.(«ş«‹ÿÿÿÿÿ8Å²Áç†/
+H
+java:S1905w"+Remove this unnecessary cast to "Callable".(‘ÔÄê8Å²Áç†/
+M
+java:S3740Ş"/Provide the parametrized type for this generic.(‘ÔÄê8Å²Áç†/
+c
+java:S1192"HDefine a constant instead of duplicating this literal "Update " 6 times.(üßïùÿÿÿÿ

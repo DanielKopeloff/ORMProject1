@@ -1,0 +1,44 @@
+
+X
+java:S26969"6Make the enclosing method "static" or remove this set.(«þ«‹ÿÿÿÿÿ8ëê¯å†/
+K
+java:S3740"/Provide the parametrized type for this generic.(ÒÎ€8’œ­å†/
+H
+java:S1905"+Remove this unnecessary cast to "Callable".(‘ÔÄê8’œ­å†/
+U	java:S106M"9Replace this use of System.out or System.err by a logger.(ÿÌÝ±8’œ­å†/
+S
+java:S2696"6Make the enclosing method "static" or remove this set.(½å”è8’œ­å†/
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(´ŒŸåùÿÿÿÿ8’œ­å†/
+c
+java:S2142\"FEither re-interrupt this method or rethrow the "InterruptedException".(üŸ´Â8’œ­å†/
+c
+java:S2142$"FEither re-interrupt this method or rethrow the "InterruptedException".(üŸ´Â8’œ­å†/
+H
+java:S1905L"+Remove this unnecessary cast to "Callable".(‘ÔÄê8’œ­å†/
+X
+java:S2696A"6Make the enclosing method "static" or remove this set.(Àò¢öüÿÿÿÿ8ëê¯å†/
+c
+java:S2142D"FEither re-interrupt this method or rethrow the "InterruptedException".(üŸ´Â8ëê¯å†/
+L
+java:S3740"/Provide the parametrized type for this generic.(‘ÔÄê8’œ­å†/
+S
+java:S2696N"6Make the enclosing method "static" or remove this set.(½å”è8’œ­å†/
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(èÿÉ¿þÿÿÿÿ8’œ­å†/
+X
+java:S2696"6Make the enclosing method "static" or remove this set.(«þ«‹ÿÿÿÿÿ8’œ­å†/
+X
+java:S2696Y"6Make the enclosing method "static" or remove this set.(Àò¢öüÿÿÿÿ8’œ­å†/
+X
+java:S2696""6Make the enclosing method "static" or remove this set.(Àò¢öüÿÿÿÿ8’œ­å†/
+S
+java:S26966"6Make the enclosing method "static" or remove this set.(½å”è8ëê¯å†/
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(ÿÌÝ±8ëê¯å†/
+L
+java:S37404"/Provide the parametrized type for this generic.(‘ÔÄê8ëê¯å†/
+L
+java:S3740L"/Provide the parametrized type for this generic.(‘ÔÄê8’œ­å†/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÿÌÝ±8’œ­å†/
+X
+java:S2696Q"6Make the enclosing method "static" or remove this set.(«þ«‹ÿÿÿÿÿ8’œ­å†/
+H
+java:S19054"+Remove this unnecessary cast to "Callable".(‘ÔÄê8ëê¯å†/

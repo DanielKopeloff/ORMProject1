@@ -1,0 +1,40 @@
+
+t
+java:S1104"RMake tables a static final constant or non-public and provide accessors if needed.(Ü´Œşÿÿÿÿ8†ÅêÚ†/
+U	java:S106•"9Replace this use of System.out or System.err by a logger.(ª“<8Õ­Õé†/
+Q
+java:S3740<"/Provide the parametrized type for this generic.(¸¤×üÿÿÿÿ8ëÏ®æ†/
+:
+java:S1116ˆ"Remove this empty statement.(²Û¯¿8®¨¿é†/
+^	java:S125›"<This block of commented-out lines of code should be removed.(“„øßøÿÿÿÿ8˜ÁŠê†/
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ùæñÃûÿÿÿÿ8†ÅêÚ†/
+[	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8üÖÅé†/
+Y
+java:S1128"7Remove this unused import 'java.sql.ResultSetMetaData'.(¯ÛµÆüÿÿÿÿ8†ÅêÚ†/
+[	java:S106œ"9Replace this use of System.out or System.err by a logger.(öšäşÿÿÿÿ8ú¢‰ê†/
+:
+java:S1116Œ"Remove this empty statement.(Ş‚„ÿ8ø¼Àé†/
+Q
+java:S3740,"/Provide the parametrized type for this generic.(¸¤×üÿÿÿÿ8¾Ç§æ†/
+J
+java:S1144b"-Remove this unused private "getTable" method.(ñËüø8†ÅêÚ†/
+Y	java:S125¬"<This block of commented-out lines of code should be removed.(µÓı‡8ÿÛÃä†/
+Z	java:S106M"9Replace this use of System.out or System.err by a logger.(Ã¡Ñşùÿÿÿÿ8†ÅêÚ†/
+H
+java:S3010C"+Remove this assignment of "connectionPool".(‰¯¶ñ8‡¬¯æ†/
+[	java:S106’"9Replace this use of System.out or System.err by a logger.(œÛ£‹øÿÿÿÿ8üÖÅé†/
+?
+java:S1116Š"Remove this empty statement.(§ğ…çúÿÿÿÿ8ìÑ¿é†/
+[	java:S106˜"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8…ôÛé†/
+Q
+java:S3740"/Provide the parametrized type for this generic.(¸¤×üÿÿÿÿ8†ÅêÚ†/
+M
+java:S1128"0Remove this unused import 'java.io.PrintStream'.(×ê’8ŒÖúé†/
+[	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ØèŞé†/
+Z
+java:S2589“"7Remove this expression which always evaluates to "true"(Ñ¿È©ûÿÿÿÿ8¥˜Õé†/
+H
+java:S3010""+Remove this assignment of "connectionPool".(‰¯¶ñ8÷¾•æ†/
+H
+java:S30103"+Remove this assignment of "connectionPool".(‰¯¶ñ8¹„¨æ†/
+V	java:S106‘"9Replace this use of System.out or System.err by a logger.(î¢¯ø8«ĞÇé†/

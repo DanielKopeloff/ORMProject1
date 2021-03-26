@@ -1,0 +1,113 @@
+
+h
+java:S1192="MDefine a constant instead of duplicating this literal "Insert into " 5 times.(ËÌ‘”ÿÿÿÿÿ
+O	java:S106Œ"9Replace this use of System.out or System.err by a logger.(ã†Å
+9
+java:S3626»"Remove this redundant jump.(ÉŠ©ƒ8§¸ßá†/
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(Â–‘ö
+V	java:S106"9Replace this use of System.out or System.err by a logger.(âÍ¼ş8¢Ìßà†/
+V	java:S106"9Replace this use of System.out or System.err by a logger.(ÿÌİ±8¢Ìßà†/
+I
+java:S1905€"+Remove this unnecessary cast to "Callable".(‘ÔÄê8¢Ìßà†/
+O	java:S106¬"9Replace this use of System.out or System.err by a logger.(ã†Å
+T
+java:S1144÷"8Remove this unused private "needQuotesForInsert" method.(±àÍÎıÿÿÿÿ
+R
+java:S1144_"0Remove this unused private "buildInsert" method.(æşÀüÿÿÿÿ8¢ÉÑß†/
+]
+java:S2142‚"FEither re-interrupt this method or rethrow the "InterruptedException".(üŸ´Â
+v
+java:S1488™"ZImmediately return this expression instead of assigning it to the temporary variable "rs".(×ÔÅ´ÿÿÿÿÿ
+s
+java:S1192Ş"PDefine a constant instead of duplicating this literal "This caught it " 3 times.(¯‘Šòûÿÿÿÿ8øœÉá†/
+T
+java:S1854³"8Remove this useless assignment to local variable "temp".(¨¶˜äşÿÿÿÿ
+J
+java:S3011É",This accessibility update should be removed.(˜ÂÓ˜8‡¢ á†/
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(®¹‹Î8¢ÉÑß†/
+M
+java:S3740€"/Provide the parametrized type for this generic.(‘ÔÄê8¢Ìßà†/
+B
+java:S1905“"+Remove this unnecessary cast to "Callable".(‘ÔÄê
+:
+java:S1116â"Remove this empty statement.(Ú‘¢¦8Ÿæäß†/
+d
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(üŸ´Â8¢Ìßà†/
+O	java:S106İ"9Replace this use of System.out or System.err by a logger.(âÍ¼ş
+O	java:S106”"9Replace this use of System.out or System.err by a logger.(ÿÌİ±
+T	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(´ŒŸåùÿÿÿÿ
+V	java:S106™"9Replace this use of System.out or System.err by a logger.(ÿÌİ±8øœÉá†/
+M
+java:S3740˜"/Provide the parametrized type for this generic.(‘ÔÄê8øœÉá†/
+J
+java:S3011ß",This accessibility update should be removed.(˜ÂÓ˜8ıºâß†/
+E
+java:S1481³")Remove this unused "temp" local variable.(¨¶˜äşÿÿÿÿ
+A
+java:S1905r"+Remove this unnecessary cast to "Callable".(‘ÔÄê
+F
+java:S3740Ë"/Provide the parametrized type for this generic.(‘ÔÄê
+V	java:S106â"9Replace this use of System.out or System.err by a logger.(Ú‘¢¦8Ÿæäß†/
+u
+java:S1488y"ZImmediately return this expression instead of assigning it to the temporary variable "rs".(×ÔÅ´ÿÿÿÿÿ
+B
+java:S1905Ë"+Remove this unnecessary cast to "Callable".(‘ÔÄê
+S
+java:S1854a"8Remove this useless assignment to local variable "temp".(¨¶˜äşÿÿÿÿ
+D
+java:S1481a")Remove this unused "temp" local variable.(¨¶˜äşÿÿÿÿ
+T	java:S106ä"9Replace this use of System.out or System.err by a logger.(´ŒŸåùÿÿÿÿ
+T	java:S106Ş"9Replace this use of System.out or System.err by a logger.(¯‘Šòûÿÿÿÿ
+]
+java:S2142¢"FEither re-interrupt this method or rethrow the "InterruptedException".(üŸ´Â
+8
+java:S2326É"T is not used in the method.(â»§•ıÿÿÿÿ
+O	java:S106è"9Replace this use of System.out or System.err by a logger.(ã†Å
+^	java:S125"<This block of commented-out lines of code should be removed.(øÚÙƒıÿÿÿÿ8øœÉá†/
+R	java:S125ø"<This block of commented-out lines of code should be removed.(ÚÑçã
+X	java:S125"<This block of commented-out lines of code should be removed.(ş–ÎÁ8Ê¢Ñá†/
+B
+java:S1872E"'Use an "instanceof" comparison instead.(šü×“ıÿÿÿÿ
+F
+java:S3740“"/Provide the parametrized type for this generic.(‘ÔÄê
+]
+java:S2142Ü"FEither re-interrupt this method or rethrow the "InterruptedException".(üŸ´Â
+J
+java:S1872Ç"'Use an "instanceof" comparison instead.(šü×“ıÿÿÿÿ8•Òß†/
+J
+java:S3011Ğ",This accessibility update should be removed.(˜ÂÓ˜8ı°ºá†/
+a
+java:S1192W"KDefine a constant instead of duplicating this literal ") Values (" 3 times.(¶†³€
+7
+java:S2326O"T is not used in the method.(Õ©ƒÿÿÿÿÿ
+M
+java:S3740¶"/Provide the parametrized type for this generic.(Ÿµ·å8§…¿á†/
+L
+java:S1172÷"0Remove this unused method parameter "fieldName".(±àÍÎıÿÿÿÿ
+V	java:S106ª"9Replace this use of System.out or System.err by a logger.(âÍ¼ş8øœÉá†/
+w
+java:S1192Œ"`Define a constant instead of duplicating this literal "Reached the bottom not sure why" 3 times.(ã†Å
+A
+java:S1481h"&Remove this unused "x" local variable.(”´ÿšüÿÿÿÿ
+[	java:S106«"9Replace this use of System.out or System.err by a logger.(¯‘Šòûÿÿÿÿ8øœÉá†/
+E
+java:S3740r"/Provide the parametrized type for this generic.(‘ÔÄê
+N	java:S106v"9Replace this use of System.out or System.err by a logger.(Â–‘ö
+K
+java:S1144O"0Remove this unused private "buildInsert" method.(Õ©ƒÿÿÿÿÿ
+V	java:S125s"<This block of commented-out lines of code should be removed.(µàÉÂüÿÿÿÿ
+^	java:S125†"<This block of commented-out lines of code should be removed.(øÚÙƒıÿÿÿÿ8‹½áà†/
+d
+java:S2142©"FEither re-interrupt this method or rethrow the "InterruptedException".(üŸ´Â8øœÉá†/
+:
+java:S1118"Hide this public constructor.(®¹‹Î8ãÕâß†/
+I
+java:S1905˜"+Remove this unnecessary cast to "Callable".(‘ÔÄê8øœÉá†/
+[	java:S106‘"9Replace this use of System.out or System.err by a logger.(¯‘Šòûÿÿÿÿ8¢Ìßà†/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(èÿÉ¿şÿÿÿÿ
+O	java:S106Ì"9Replace this use of System.out or System.err by a logger.(ÿÌİ±
+T	java:S106¨"9Replace this use of System.out or System.err by a logger.(´ŒŸåùÿÿÿÿ
+p
+java:S3776µ"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(â¸¹Í8†ßá†/
+N	java:S106m"9Replace this use of System.out or System.err by a logger.(Â–‘ö

@@ -1,0 +1,19 @@
+
+@
+java:S5786S"Remove this 'public' modifier.(Öâ¬åøÿÿÿÿ8ğï¢Ù†/
+g
+java:S5863["KReplace this assertion to not have the same actual and expected expression.(È¹È~8¼Ù›Ú†/
+O
+java:S2699S"-Add at least one assertion to this test case.(Öâ¬åøÿÿÿÿ8ğï¢Ù†/
+;
+java:S5786"Remove this 'public' modifier.(¿³Óâ8Ÿ©ü×†/
+;
+java:S5786Z"Remove this 'public' modifier.(ßİëŞ8Ğ¤Ù†/
+O
+java:S2699`"-Add at least one assertion to this test case.(ôãĞÈşÿÿÿÿ8¬…†Ø†/
+A
+java:S5810`"Remove this 'private' modifier.(ôãĞÈşÿÿÿÿ8¬…†Ø†/
+;
+java:S5786K"Remove this 'public' modifier.(¸Ë÷8Ÿ©ü×†/
+N
+java:S3415["2Change this assertion to not compare two literals.(È¹È~8¼Ù›Ú†/

@@ -1,0 +1,21 @@
+
+U
+java:S1118":Add a private constructor to hide the implicit public one.(«öÇˆşÿÿÿÿ
+L
+java:S1068"/Remove this unused "queryResult" private field.(¦í€Ì8®øæ†/
+P
+java:S1128"3Remove this unused import 'Threads.MakeThreadPool'.(ùÜîı8Ø„ç†/
+Z
+java:S1128"8Remove this unused import 'java.util.concurrent.Future'.(á¬øíıÿÿÿÿ8Ø„ç†/
+‚
+java:S1450"`Remove the "preparedStatement" field and declare it as a local variable in the relevant methods.(œÉÍøÿÿÿÿ8Çµüæ†/
+N
+java:S1128",Remove this unused import 'Models.Database'.(†ŞæÅùÿÿÿÿ8Ø„ç†/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÆÑÕ
+\
+java:S1128	":Remove this unused import 'java.util.concurrent.Callable'.(¾×¶îûÿÿÿÿ8Ø„ç†/
+o
+java:S1450"RRemove the "sql" field and declare it as a local variable in the relevant methods.(ÔâùÛ8ˆúûæ†/
+a
+java:S1128
+"DRemove this unused import 'java.util.concurrent.ExecutionException'.(¡£ØÍ8‚ç†/

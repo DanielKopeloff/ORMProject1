@@ -1,0 +1,121 @@
+
+S
+java:S2696e"6Make the enclosing method "static" or remove this set.(½å”è8„‹Ñè†/
+Y	java:S125Á"<This block of commented-out lines of code should be removed.(ù¢âø8„‹Ñè†/
+T
+java:S2696ö"6Make the enclosing method "static" or remove this set.(½å”è8„‹Ñè†/
+^	java:S125Æ"<This block of commented-out lines of code should be removed.(¶¦Œëüÿÿÿÿ8„‹Ñè†/
+T
+java:S2696ù"6Make the enclosing method "static" or remove this set.(İÄí¶8„‹Ñè†/
+H
+java:S14816"+Remove this unused "fields" local variable.(¤‘ÖŸ8„‹Ñè†/
+^	java:S125Ö"<This block of commented-out lines of code should be removed.(ÔŸÑ£şÿÿÿÿ8„‹Ñè†/
+Y
+java:S2696"6Make the enclosing method "static" or remove this set.(ˆ¬éüÿÿÿÿ8„‹Ñè†/
+M
+java:S3740„"/Provide the parametrized type for this generic.(Ÿµ·å8„‹Ñè†/
+J
+java:S3011Ñ",This accessibility update should be removed.(˜ÂÓ˜8„‹Ñè†/
+R
+java:S2696h"6Make the enclosing method "static" or remove this set.(¾Ì8„‹Ñè†/
+u
+java:S3776¼"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ïïıêûÿÿÿÿ8„‹Ñè†/
+M
+java:S3740½"/Provide the parametrized type for this generic.(Ÿµ·å8„‹Ñè†/
+p
+java:S3776à"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(î–ØÎ8„‹Ñè†/
+J
+java:S3011",This accessibility update should be removed.(˜ÂÓ˜8„‹Ñè†/
+X
+java:S1133™"5Do not forget to remove this deprecated code someday.(¥Œìúøÿÿÿÿ8„‹Ñè†/
+N
+java:S1128",Remove this unused import 'Models.Database'.(†ŞæÅùÿÿÿÿ8Òäßè†/
+J
+java:S1872Ì"'Use an "instanceof" comparison instead.(šü×“ıÿÿÿÿ8„‹Ñè†/
+d
+java:S1192C"HDefine a constant instead of duplicating this literal " Where " 4 times.(ŸşÖF8„‹Ñè†/
+Y
+java:S1854¬"6Remove this useless assignment to local variable "rs".(×ÔÅ´ÿÿÿÿÿ8„‹Ñè†/
+T
+java:S2696µ"6Make the enclosing method "static" or remove this set.(½å”è8„‹Ñè†/
+J
+java:S1481¬"'Remove this unused "rs" local variable.(×ÔÅ´ÿÿÿÿÿ8„‹Ñè†/
+U	java:S106_"9Replace this use of System.out or System.err by a logger.(Â–‘ö8„‹Ñè†/
+W
+java:S18546":Remove this useless assignment to local variable "fields".(¤‘ÖŸ8„‹Ñè†/
+Z
+java:S1128"8Remove this unused import 'java.util.concurrent.Future'.(á¬øíıÿÿÿÿ8Òäßè†/
+Y	java:S125½"<This block of commented-out lines of code should be removed.(ôø•Ñ8„‹Ñè†/
+J
+java:S3011”",This accessibility update should be removed.(˜ÂÓ˜8„‹Ñè†/
+X	java:S125¿"<This block of commented-out lines of code should be removed.(¿õÄ8„‹Ñè†/
+V	java:S106¥"9Replace this use of System.out or System.err by a logger.(ÂÌ‹Â8„‹Ñè†/
+V
+java:S1874"3Remove this use of "buildUpdate"; it is deprecated.(Ãğüâøÿÿÿÿ8„‹Ñè†/
+S
+java:S2696%"6Make the enclosing method "static" or remove this set.(¸Åàõ8„‹Ñè†/
+P
+java:S1128
+"3Remove this unused import 'Threads.MakeThreadPool'.(ùÜîı8Òäßè†/
+M
+java:S3740"/Provide the parametrized type for this generic.(Ÿµ·å8„‹Ñè†/
+Y
+java:S2696¸"6Make the enclosing method "static" or remove this set.( ‡¬®ıÿÿÿÿ8„‹Ñè†/
+a
+java:S1128"DRemove this unused import 'java.util.concurrent.ExecutionException'.(¡£ØÍ8Òäßè†/
+J
+java:S1872"'Use an "instanceof" comparison instead.(šü×“ıÿÿÿÿ8„‹Ñè†/
+\
+java:S1128":Remove this unused import 'java.util.concurrent.Callable'.(¾×¶îûÿÿÿÿ8Òäßè†/
+^	java:S125§"<This block of commented-out lines of code should be removed.(µàÉÂüÿÿÿÿ8„‹Ñè†/
+d
+java:S1126µ"AReplace this if-then-else statement by a single return statement.(óÆ½úÿÿÿÿ8„‹Ñè†/
+K
+java:S1123™"(Add the missing @deprecated Javadoc tag.(¥Œìúøÿÿÿÿ8„‹Ñè†/
+J
+java:S1872‹"'Use an "instanceof" comparison instead.(šü×“ıÿÿÿÿ8„‹Ñè†/
+i
+java:S1192š"FDefine a constant instead of duplicating this literal " Set " 3 times.(üßïùÿÿÿÿ8„‹Ñè†/
+T
+java:S2696"6Make the enclosing method "static" or remove this set.(ÇÒñ8„‹Ñè†/
+J
+java:S3011Ë",This accessibility update should be removed.(˜ÂÓ˜8„‹Ñè†/
+J
+java:S3011Ø",This accessibility update should be removed.(˜ÂÓ˜8„‹Ñè†/
+J
+java:S3011É",This accessibility update should be removed.(˜ÂÓ˜8„‹Ñè†/
+k
+java:S1192š"HDefine a constant instead of duplicating this literal "Update " 3 times.(üßïùÿÿÿÿ8„‹Ñè†/
+Z	java:S106O"9Replace this use of System.out or System.err by a logger.(ª‹ôíùÿÿÿÿ8„‹Ñè†/
+I
+java:S1481&"'Remove this unused "rs" local variable.(×ÔÅ´ÿÿÿÿÿ8¥ãè†/
+9
+java:S3626Ã"Remove this redundant jump.(ÉŠ©ƒ8„‹Ñè†/
+J
+java:S1872¨"'Use an "instanceof" comparison instead.(šü×“ıÿÿÿÿ8„‹Ñè†/
+[
+java:S1155Z">Use isEmpty() to check whether the collection is empty or not.(…¡Õ¢8„‹Ñè†/
+j
+java:S1192"GDefine a constant instead of duplicating this literal "String" 6 times.(šü×“ıÿÿÿÿ8„‹Ñè†/
+^	java:S125£"<This block of commented-out lines of code should be removed.(ÔŸÑ£şÿÿÿÿ8„‹Ñè†/
+I
+java:S1481á"+Remove this unused "notStr" local variable.(ëÅÊ³8„‹Ñè†/
+J
+java:S3011å",This accessibility update should be removed.(˜ÂÓ˜8„‹Ñè†/
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÆÑÕ8„‹Ñè†/
+S
+java:S2696""6Make the enclosing method "static" or remove this set.(½å”è8„‹Ñè†/
+S
+java:S26965"6Make the enclosing method "static" or remove this set.(½å”è8„‹Ñè†/
+X
+java:S1854&"6Remove this useless assignment to local variable "rs".(×ÔÅ´ÿÿÿÿÿ8¥ãè†/
+W
+java:S1141j"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8Ğ¡Ùè†/
+X
+java:S26968"6Make the enclosing method "static" or remove this set.(«ş«‹ÿÿÿÿÿ8„‹Ñè†/
+T
+java:S2696‘"6Make the enclosing method "static" or remove this set.(¸Åàõ8„‹Ñè†/
+I
+java:S3011R",This accessibility update should be removed.(˜ÂÓ˜8„‹Ñè†/
+J
+java:S1872Ï"'Use an "instanceof" comparison instead.(šü×“ıÿÿÿÿ8„‹Ñè†/

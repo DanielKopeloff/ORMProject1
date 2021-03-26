@@ -1,0 +1,17 @@
+
+\
+java:S21421"FEither re-interrupt this method or rethrow the "InterruptedException".(üŸ´Â
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÿÌÝ±
+p
+java:S1450"ZRemove the "queryResult" field and declare it as a local variable in the relevant methods.(ùñ¶ú
+L
+java:S2696"6Make the enclosing method "static" or remove this set.(½å”è
+A
+java:S1905"+Remove this unnecessary cast to "Callable".(‘ÔÄê
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(´ŒŸåùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(èÿÉ¿þÿÿÿÿ
+Q
+java:S2696!"6Make the enclosing method "static" or remove this set.(«þ«‹ÿÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(‘ÔÄê
+V	java:S125D"<This block of commented-out lines of code should be removed.(ø¦ü´øÿÿÿÿ

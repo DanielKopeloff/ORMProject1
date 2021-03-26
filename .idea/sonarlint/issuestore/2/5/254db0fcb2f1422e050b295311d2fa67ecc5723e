@@ -1,0 +1,75 @@
+
+V	java:S106°"9Replace this use of System.out or System.err by a logger.(ÿÌÝ±8Î’¥ã†/
+V	java:S125l"<This block of commented-out lines of code should be removed.(ýß³Àûÿÿÿÿ
+H
+java:S1905I"+Remove this unnecessary cast to "Callable".(‘ÔÄê8ã¬Ìä†/
+]
+java:S2142 "FEither re-interrupt this method or rethrow the "InterruptedException".(üŸ´Â
+Y
+java:S2696ú"6Make the enclosing method "static" or remove this set.(Àò¢öüÿÿÿÿ8ºþœä†/
+7
+java:S2326i"T is not used in the method.(Ð‰Ëýÿÿÿÿ
+d
+java:S2142ý"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ºþœä†/
+L
+java:S3740I"/Provide the parametrized type for this generic.(‘ÔÄê8ã¬Ìä†/
+[	java:S106ÿ"9Replace this use of System.out or System.err by a logger.(Ó÷¡´ýÿÿÿÿ8ºþœä†/
+V	java:S106Ì"9Replace this use of System.out or System.err by a logger.(åÐîš8¢°°ã†/
+M
+java:S3740â"/Provide the parametrized type for this generic.(‘ÔÄê8ºþœä†/
+V	java:S106¦"9Replace this use of System.out or System.err by a logger.(Â–‘ö8ýìå†/
+^	java:S125è"<This block of commented-out lines of code should be removed.(´È”ùÿÿÿÿ8Í¤å†/
+I
+java:S1905¯"+Remove this unnecessary cast to "Callable".(‘ÔÄê8Î’¥ã†/
+c
+java:S2142a"FEither re-interrupt this method or rethrow the "InterruptedException".(üŸ´Â8ã¬Ìä†/
+X	java:S125O"<This block of commented-out lines of code should be removed.(·…ü½8¾ÿÌä†/
+T
+java:S2696ä"6Make the enclosing method "static" or remove this set.(½å”è8ºþœä†/
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(êÙÎÖ
+I
+java:S1481å"+Remove this unused "fields" local variable.(¤‘ÖŸ8Í¤å†/
+N	java:S106~"9Replace this use of System.out or System.err by a logger.(»íô×
+Y	java:S125ª"<This block of commented-out lines of code should be removed.(þŠ†ú8·¶ã†/
+T
+java:S2696±"6Make the enclosing method "static" or remove this set.(½å”è8Î’¥ã†/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(èÿÉ¿þÿÿÿÿ
+F
+java:S3740‰"/Provide the parametrized type for this generic.(‘ÔÄê
+S	java:S106|"9Replace this use of System.out or System.err by a logger.(—•—üÿÿÿÿ
+V	java:S106È"9Replace this use of System.out or System.err by a logger.(£µ¤§8Ò‡±ã†/
+[	java:S106–"9Replace this use of System.out or System.err by a logger.(ª‹ôíùÿÿÿÿ8¥ðÿä†/
+M
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äð18ƒŒ„å†/
+]	java:S125"<This block of commented-out lines of code should be removed.(î¬ö¤ùÿÿÿÿ8ëÖ÷ä†/
+d
+java:S2142Ç"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8±ø­ã†/
+B
+java:S1905‰"+Remove this unnecessary cast to "Callable".(‘ÔÄê
+[	java:S106É"9Replace this use of System.out or System.err by a logger.(Ó÷¡´ýÿÿÿÿ8ÉØ±ã†/
+Y
+java:S2696ç"6Make the enclosing method "static" or remove this set.(«þ«‹ÿÿÿÿÿ8ºþœä†/
+V	java:S106Ü"9Replace this use of System.out or System.err by a logger.(Â–‘ö8®ÄÁã†/
+]
+java:S1126¥"AReplace this if-then-else statement by a single return statement.(³€ãÕýÿÿÿÿ
+V	java:S106‚"9Replace this use of System.out or System.err by a logger.(åÐîš8ºþœä†/
+Y
+java:S2696Ä"6Make the enclosing method "static" or remove this set.(Àò¢öüÿÿÿÿ8Î’¥ã†/
+I
+java:S1905â"+Remove this unnecessary cast to "Callable".(‘ÔÄê8ºþœä†/
+U	java:S106J"9Replace this use of System.out or System.err by a logger.(ÿÌÝ±8ã¬Ìä†/
+V	java:S106þ"9Replace this use of System.out or System.err by a logger.(£µ¤§8ºþœä†/
+Y
+java:S2696Û"6Make the enclosing method "static" or remove this set.(ˆ¬éüÿÿÿÿ8‘Àã†/
+M
+java:S3740¯"/Provide the parametrized type for this generic.(‘ÔÄê8Î’¥ã†/
+Y
+java:S2696´"6Make the enclosing method "static" or remove this set.(«þ«‹ÿÿÿÿÿ8Î’¥ã†/
+J
+java:S3011™",This accessibility update should be removed.(˜ÂÓ˜8¯­Œå†/
+\
+java:S1155¡">Use isEmpty() to check whether the collection is empty or not.(…¡Õ¢8µœþä†/
+V	java:S106ã"9Replace this use of System.out or System.err by a logger.(ÿÌÝ±8ºþœä†/
+N	java:S106k"9Replace this use of System.out or System.err by a logger.(Â–‘ö
+O	java:S106Š"9Replace this use of System.out or System.err by a logger.(ÿÌÝ±
